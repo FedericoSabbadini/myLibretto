@@ -1,0 +1,153 @@
+{
+  "nome": "Triennale_Federico",
+  "numeroLodi": 0,
+  "libretto": {
+    "703012": {
+      "nomeCorso": "Calcolatori Elettronici",
+      "CFU": 6,
+      "voto": 24,
+      "anno": 2,
+      "lode": false
+    },
+    "703177": {
+      "nomeCorso": "Economia",
+      "CFU": 6,
+      "voto": 30,
+      "anno": 2,
+      "lode": true
+    },
+    "A003140": {
+      "nomeCorso": "Normative Delle Telecomunicazioni",
+      "CFU": 6,
+      "voto": 30,
+      "anno": 3,
+      "lode": false
+    },
+    "1000017": {
+      "nomeCorso": "Elementi di Biologia",
+      "CFU": 6,
+      "voto": 28,
+      "anno": 3,
+      "lode": false
+    },
+    "703692": {
+      "nomeCorso": "Algebra E Geometria",
+      "CFU": 9,
+      "voto": 30,
+      "anno": 1,
+      "lode": true
+    },
+    "703010": {
+      "nomeCorso": "Fisica I",
+      "CFU": 9,
+      "voto": 21,
+      "anno": 1,
+      "lode": false
+    },
+    "A004221": {
+      "nomeCorso": "Analisi II e Ricerca Operativa",
+      "CFU": 12,
+      "voto": 22,
+      "anno": 2,
+      "lode": false
+    },
+    "703789": {
+      "nomeCorso": "Fisica II",
+      "CFU": 6,
+      "voto": 30,
+      "anno": 2,
+      "lode": false
+    },
+    "703019": {
+      "nomeCorso": "Analisi I",
+      "CFU": 9,
+      "voto": 23,
+      "anno": 1,
+      "lode": false
+    },
+    "703405": {
+      "nomeCorso": "Ingegneria Del Software",
+      "CFU": 9,
+      "voto": 27,
+      "anno": 3,
+      "lode": false
+    },
+    "703017": {
+      "nomeCorso": "Linguaggi Di Programmazione e Database",
+      "CFU": 12,
+      "voto": 28,
+      "anno": 3,
+      "lode": false
+    },
+    "702974": {
+      "nomeCorso": "Programmazione Avanzata",
+      "CFU": 9,
+      "voto": 26,
+      "anno": 2,
+      "lode": false
+    },
+    "702443": {
+      "nomeCorso": "Inglese",
+      "CFU": 3,
+      "voto": 26,
+      "anno": 2,
+      "lode": false
+    },
+    "703016": {
+      "nomeCorso": "Chimica",
+      "CFU": 6,
+      "voto": 20,
+      "anno": 1,
+      "lode": false
+    },
+    "703157": {
+      "nomeCorso": "Automatica",
+      "CFU": 9,
+      "voto": 20,
+      "anno": 2,
+      "lode": false
+    },
+    "A000405": {
+      "nomeCorso": "Probabilità E Statistica",
+      "CFU": 6,
+      "voto": 30,
+      "anno": 1,
+      "lode": false
+    },
+    "A000417": {
+      "nomeCorso": "Elettronica Generale",
+      "CFU": 9,
+      "voto": 30,
+      "anno": 2,
+      "lode": true
+    },
+    "703406": {
+      "nomeCorso": "Reti Di Telecomunicazioni",
+      "CFU": 9,
+      "voto": 30,
+      "anno": 2,
+      "lode": false
+    },
+    "A004223": {
+      "nomeCorso": "Sistemi Operativi e Impianti Informatici",
+      "CFU": 12,
+      "voto": 30,
+      "anno": 3,
+      "lode": true
+    },
+    "A000398": {
+      "nomeCorso": "Tecnologie Dei Linguaggi",
+      "CFU": 6,
+      "voto": 28,
+      "anno": 3,
+      "lode": false
+    },
+    "A000401": {
+      "nomeCorso": "Fondamenti Di Informatica",
+      "CFU": 12,
+      "voto": 23,
+      "anno": 1,
+      "lode": false
+    }
+  }
+}

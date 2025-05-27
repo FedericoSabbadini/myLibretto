@@ -1,0 +1,41 @@
+{
+  "nome": "Magistrale_Federico",
+  "numeroLodi": 0,
+  "libretto": {
+    "703012": {
+      "nomeCorso": "Algebra per Codici",
+      "CFU": 6,
+      "voto": 30,
+      "anno": 1,
+      "lode": true
+    },
+    "703177": {
+      "nomeCorso": "Amministrazione di Sistema",
+      "CFU": 6,
+      "voto": 28,
+      "anno": 1,
+      "lode": false
+    },
+    "A003140": {
+      "nomeCorso": "Calcolo Scientifico",
+      "CFU": 6,
+      "voto": 26,
+      "anno": 1,
+      "lode": false
+    },
+    "1000017": {
+      "nomeCorso": "Modellistica e Simulazione",
+      "CFU": 6,
+      "voto": 27,
+      "anno": 1,
+      "lode": false
+    },
+    "A005647": {
+      "nomeCorso": "Strategia Aziendale",
+      "CFU": 6,
+      "voto": 30,
+      "anno": 1,
+      "lode": false
+    }
+  }
+}
